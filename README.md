@@ -13,12 +13,12 @@
   <a href="https://github.com/Maher-Zubair">
     <img src="https://img.shields.io/github/followers/Usman-Shabbir?style=flat-square&logo=github&color=black">
 
-   <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
+   <a href="https://github.com/Usmanshabbir12345670/Usmanshabbir12345670/fork">
+    <img src="https://img.shields.io/github/forks/Usman-Shabbir/USMAN-MD?style=flat-square&logo=github&color=black">
     
     
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
-     <img src="https://img.shields.io/github/stars/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
+     <img src="https://img.shields.io/github/stars/USMAN-Shabbir/USMAN-MD?style=flat-square&logo=github&color=black">
 
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/watchers"> 
      <img src="https://img.shields.io/github/watchers/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
@@ -153,7 +153,7 @@
 
 
 - ***Star ⭐ My Repo If You Like SIGMA-MD.***
-- ***The [SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) is Made Under The [Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE).***
+- ***The [USMAN-MD](https://github.com/Usmanshabbir12345670/Usmanshabbir12345670) is Made Under The [Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE).***
 - ***[Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
